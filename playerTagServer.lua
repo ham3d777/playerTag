@@ -1,3 +1,5 @@
+-- hamed.777 on discord
+-- @ham3d777_ on X (twitter)
 --[[
 
 you can set data from leaderstats, attributes, dataStore, etc. I used rawData
