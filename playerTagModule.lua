@@ -1,3 +1,5 @@
+-- hamed.777 on discord
+-- @ham3d777_ on X (twitter)
 local meta = {}
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
